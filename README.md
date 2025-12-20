@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Yan%20(yanlvl99)&fontSize=70&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+Systems+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Developer;Systems+%26+Performance" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Rust-E32F26?style=for-the-badge&logo=rust&logoColor=white" />
