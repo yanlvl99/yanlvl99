@@ -11,21 +11,6 @@
     <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0078D6" />
   </p>
 
-  <br />
-
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=yanlvl99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c0caf5&icon_color=7AA2F7" height="150px" />
-      </td>
-      <td width="50%" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlvl99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c0caf5" height="150px" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
   <details open>
     <summary><b>📊 Contribution Graph</b></summary>
     <br />
