@@ -5,11 +5,12 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=7AA2F7&width=400&lines=Software+Developer;Systems+%26+Performance;Rust+%26+Luau+Enthusiast" alt="Typing SVG" />
 
-  <p align="left">
+<p align="left">
+    <img src="https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=00599C" />
     <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=E32F26" />
     <img src="https://img.shields.io/badge/Luau-black?style=flat-square&logo=lua&logoColor=00A2FF" />
     <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0078D6" />
-  </p>
+</p>
 
   <details open>
     <summary><b>📊 Contribution Graph</b></summary>
