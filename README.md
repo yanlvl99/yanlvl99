@@ -23,13 +23,4 @@
   </details>
 
   <br />
-
-  <p align="left">
-    <b>📫 Get in touch:</b>
-    <a href="https://discord.com/users/1222190313204879421" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-    </a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=30&section=footer" width="100%" />
 </div>
